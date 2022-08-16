@@ -1,5 +1,4 @@
-# tictactoe-online - On developement...
-
+# tictactoe-online -
 tictactoe online game with users system
 
 React and JavaScript, maybe some cool css at the end.
